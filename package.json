@@ -1,0 +1,32 @@
+{
+  "name": "hapi-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel-runtime": "5.6.15",
+    "bootstrap": "^3.3.5",
+    "classnames": "^2.1.2",
+    "joi": "^6.5.0",
+    "lodash": "^3.10.1",
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0",
+    "react-http-request": "^1.0.3",
+    "react-mixin": "^1.7.0",
+    "react-redux": "^0.9.0",
+    "react-router": "^3.0.0",
+    "react-validation-mixin": "^4.2.0",
+    "redux": "^1.0.1",
+    "redux-logger": "1.0.3",
+    "redux-thunk": "^0.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.3.2",
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
